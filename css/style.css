@@ -1,0 +1,97 @@
+body {
+  background-image: url('../images/backgroundcoffee.png');  
+  background-size: cover;
+  padding: 0%;
+  margin: 0%;
+  width: 1535px;
+  height: 700px;
+}
+
+#logo {
+  width: 70%;
+  height: auto;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  padding-top: 1%;
+  margin: 0%;
+}
+
+#reset {
+  max-width: 8%;
+  position: absolute;
+  top: 32em; right: 8em;
+}
+
+#bestel {
+  max-width: 8%;
+  position: absolute;
+  top: 21em; right: 8.2em;  
+}
+
+#glas {
+  display: flex;
+  justify-content: center;
+  width: 70em;
+  padding-left: 14%;
+  padding-bottom: 0%;
+  padding-top: 1em;
+}
+
+.ingredienten {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1000px;
+  max-width: 1500px;
+  margin: 0 auto;
+  padding-top: 2em;
+  padding-right: 0em;
+  padding-bottom: 1em;
+}
+  
+#koffie {
+  flex: 0 0 12%;
+  max-width: 12%;
+  height: auto;
+  padding-right: 12%;
+  padding-left: 3%;
+}
+
+#ijsklontjes {
+  flex: 0 0 12%;
+  max-width: 12%;
+  height: auto;
+  padding-right: 12%;
+  padding-left: 3%;
+}
+
+#siroop {
+  flex: 0 0 12%;
+  max-width: 12%;
+  height: auto;
+  padding-right: 12%;
+  padding-left: 3%;
+}
+
+#slagroom {
+  flex: 0 0 12%;
+  max-width: 12%;
+  height: auto;
+  padding-right: 12%;
+  padding-left: 3%;
+}
+
+#straw {
+  height: 8em;
+  padding-right: 12%;
+}
+
+.confetti{
+  background-image: url("https://media.giphy.com/media/PMV7yRpwGO5y9p3DBx/source.gif");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}

@@ -1,0 +1,42 @@
+Naam: Elles Epskamp
+Studentnummer: 500909088
+Klas: Git
+Vak: Inleiding Programmeren
+Docent: Gerard van Enk
+Schooljaar: 22/23
+
+LINK NAAR LIVE WEBSITE
+https://oege.ie.hva.nl/~epskame/ip-eindopdracht-ellesepskamp-git/index.html
+
+Afbeeldingen
+- https://www.facebook.com/flaticon (2022). *Mason jar Icon - 6891734*. [online] Flaticon. Available at: https://www.flaticon.com/free-icon/mason-jar_6891734?term=mason+jar&page=1&position=11&origin=search&related_id=6891734 [Accessed 17 Feb. 2023].
+- https://www.facebook.com/flaticon (2021). *Straws Icon - 4038464*. [online] Flaticon. Available at: https://www.flaticon.com/free-icon/straws_4038464?term=straw&page=1&position=3&origin=search&related_id=4038464 [Accessed 17 Feb. 2023].
+- https://www.facebook.com/flaticon (2020). *Ice cube Icon - 2458132*. [online] Flaticon. Available at: https://www.flaticon.com/free-icon/ice-cube_2458132?term=ice+cubes&page=1&position=3&origin=search&related_id=2458132 [Accessed 17 Feb. 2023].
+- https://www.facebook.com/flaticon (2020). *Coffee beans Icon - 3219333*. [online] Flaticon. Available at: https://www.flaticon.com/free-icon/coffee-beans_3219333?term=coffee&related_id=3219333 [Accessed 17 Feb. 2023].
+- https://www.facebook.com/flaticon (2021). *Syrup Icon - 6166556*. [online] Flaticon. Available at: https://www.flaticon.com/free-icon/syrup_6166556?term=syrup&page=1&position=9&origin=search&related_id=6166556 [Accessed 17 Feb. 2023].
+- https://www.facebook.com/flaticon (2021). *Whip cream Icon - 5816089*. [online] Flaticon. Available at: https://www.flaticon.com/free-icon/whip-cream_5816089?related_id=5816089 [Accessed 20 Feb. 2023].
+- https://www.facebook.com/flaticon (2021). *Syrup Icon - 6451689*. [online] Flaticon. Available at: https://www.flaticon.com/free-icon/syrup_6451689?term=syrup+coffee&page=1&position=9&origin=search&related_id=6451689 [Accessed 20 Feb. 2023].
+- Jony Ariadi (2017). closeup photo of coffeemaker. [online] Unsplash.com. Available at: https://unsplash.com/photos/LYDvhnUN_Qw [Accessed 16 Mar. 2023].
+- https://www.facebook.com/flaticon (2021). Reset Icon - 5632370. [online] Flaticon. Available at: https://www.flaticon.com/free-icon/reset_5632370?k=1679849486123&log-in=google [Accessed 26 Mar. 2023].
+
+‌Fonts
+- Dafont.com. (2023). Nice Sugar Font | dafont.com. [online] Available at: https://www.dafont.com/nice-sugar.font [Accessed 16 Mar. 2023].
+
+Icon browser
+- THEJESWAR (2019). can any one tell me how to add a favicon in vscode (visual studio code). [online] Stack Overflow. Available at: https://stackoverflow.com/questions/59155116/can-any-one-tell-me-how-to-add-a-favicon-in-vscode-visual-studio-code [Accessed 26 Mar. 2023].
+
+Slepen elementen 
+- Mozilla.org. (2023). HTMLElement: drag event - Web APIs | MDN. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/drag_event [Accessed 19 Mar. 2023].
+- Mozilla.org. (2023). HTMLElement: dragover event - Web APIs | MDN. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dragover_event [Accessed 19 Mar. 2023].
+- Mozilla.org. (2023). HTMLElement: drop event - Web APIs | MDN. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/drop_event [Accessed 19 Mar. 2023].
+- Mild Fuzz (2014). Drop event not firing in chrome. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/21339924/drop-event-not-firing-in-chrome [Accessed 26 Mar. 2023].
+
+Audio
+- Mozilla.org. (2023). Audio() - Web APIs | MDN. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio [Accessed 19 Mar. 2023].
+- Jain, A. (2013). HTML5 Audio stop function. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/14834520/html5-audio-stop-function [Accessed 26 Mar. 2023].
+
+Array
+- W3schools.com. (2015). JavaScript Arrays. [online] Available at: https://www.w3schools.com/js/js_arrays.asp [Accessed 24 Mar. 2023].
+
+Position Absolute
+- Mozilla.org. (2023). position - CSS: Cascading Style Sheets | MDN. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/position [Accessed 26 Mar. 2023].
